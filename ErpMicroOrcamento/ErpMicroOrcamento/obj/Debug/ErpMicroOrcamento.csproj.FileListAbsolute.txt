@@ -1,0 +1,11 @@
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\bin\Debug\ErpMicroOrcamento.exe.config
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\bin\Debug\ErpMicroOrcamento.exe
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\bin\Debug\ErpMicroOrcamento.pdb
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\obj\Debug\ErpMicroOrcamento.csproj.AssemblyReference.cache
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\obj\Debug\ErpMicroOrcamento.csproj.SuggestedBindingRedirects.cache
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\obj\Debug\ErpMicroOrcamento.Ermpmricro.resources
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\obj\Debug\ErpMicroOrcamento.Properties.Resources.resources
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\obj\Debug\ErpMicroOrcamento.csproj.GenerateResource.cache
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\obj\Debug\ErpMicroOrcamento.csproj.CoreCompileInputs.cache
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\obj\Debug\ErpMicroOrcamento.exe
+C:\Programação_visual\visual studio\emprMicro\ErpMicroOrcamento\ErpMicroOrcamento\obj\Debug\ErpMicroOrcamento.pdb
